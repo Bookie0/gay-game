@@ -11,6 +11,8 @@ To contribute:
 - Push
 
 Task list
-- player movment
+- player movment 
 - Gui
 - Being able to go to caves
+
+YAY gay woo 
