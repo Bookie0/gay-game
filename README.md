@@ -14,6 +14,6 @@ Task list
 - player movment 
 - Gui
 - Being able to go to caves
-- Inslut clement
+- insult clement
 
 YAY gay woo 
