@@ -11,10 +11,22 @@ To contribute:
 - Push
 - We will use unity version : 2022.3.23f1
 
+Role List:
+- Max (Gay programmer and gay lead director)
+- Solene (Gay artists, and gay programmer co gay lead director)
+- Theodore (gay programmer, resident gay guy)
+- everyone else
+
 Task list
 - player movment 
 - Gui
 - Being able to go to caves
 - Inslut clement
+
+Character Notes:
+- 2 diff character (1 fits the masculine character archetype and 1 for the feminine)
+- Masculine character is named Veginald "veggie" Grottowth
+- Veginald will have a leaf on his head and have a maple leaf type haircut and a moss beard. (it would be funny if he had a sick ass looksmaxing face)
+- Feminine character, we need a name that is a pun with plants or rocks (Maybe instead of Rachelle her name is Rochelle "roche" Grottowth)
 
 YAY gay woo 
