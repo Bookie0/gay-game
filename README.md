@@ -4,12 +4,14 @@ To contribute:
 - Click "Code" button
 - Using your editor of choice, clone the Repo (`gh repo clone Bookie0/gay-game`)
 - Pull new changes
-- In your console, create a new branch 
+- In your console, create a new branch(With your name on it)
 - Add your changes
 - When done, review your changes, commit them 
 - Add summary of your commit
 - Push
 - We will use unity version : 2022.3.23f1
+- It says the main language is small talk but thats cause of git lfs lol.
+- 
 
 Using GitLFS:
 - i firstly made the file so now
