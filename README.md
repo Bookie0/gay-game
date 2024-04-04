@@ -11,7 +11,7 @@ To contribute:
 - Push
 - We will use unity version : 2022.3.23f1
 - It says the main language is small talk but thats cause of git lfs lol.
-- 
+- helpful link: https://github.com/orgs/community/discussions/56071
 
 Using GitLFS:
 - i firstly made the file so now
