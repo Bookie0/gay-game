@@ -11,6 +11,13 @@ To contribute:
 - Push
 - We will use unity version : 2022.3.23f1
 
+Using GitLFS:
+- i firstly made the file so now
+- all you need to do is git lfs pull in the terminal where your repository is 
+- Make sure you have git and git lfs installed
+- you only have to commit the .gitattributes file i think
+- solene ill need your help to test this out
+
 Role List:
 - Max (Gay programmer and gay lead director)
 - Solene (Gay artists, and gay programmer co gay lead director)
