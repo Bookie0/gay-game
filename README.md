@@ -1,4 +1,5 @@
 # gay-game
+## Uhh so the file to big so im gonna try and fix this
 
 To contribute:
 - Click "Code" button
