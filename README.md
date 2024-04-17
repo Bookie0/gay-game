@@ -22,6 +22,7 @@ Using GitLFS:
 - solene ill need your help to test this out
 
 Role List:
+- clement (UI + github stuff)
 - Max (Gay programmer and gay lead director)
 - Solene (Gay artists, and gay programmer co gay lead director)
 - Theodore (gay programmer, resident gay guy)
